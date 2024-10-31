@@ -1,0 +1,195 @@
+{
+    "imgPost": [
+        {
+            "imgPost": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ],
+    "imgStoris": [
+        {
+            "imgStoris": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY="
+        }
+    ],
+    "stories": [
+        {
+            "id": "fk42",
+            "userName": "alex02",
+            "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+            "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+            "status": false,
+            "description": "This sunset was breathtaking and beautiful."
+        }
+    ,
+    {
+        "id": "gt51",
+        "userName": "maria33",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "Exploring the mountains was an amazing adventure."
+    },
+    {
+        "id": "rz84",
+        "userName": "john89",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "The waves crashing against the shore were soothing."
+    },
+    {
+        "id": "kq12",
+        "userName": "lisa21",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "Walking through the forest brings peace and tranquility."
+    },
+    {
+        "id": "wf34",
+        "userName": "tomcat",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "The stars at night sparkled like tiny diamonds."
+    },
+    {
+        "id": "pl28",
+        "userName": "sophie7",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "Listening to the rain can be very relaxing."
+    },
+    {
+        "id": "vx90",
+        "userName": "mike19",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "Traveling opens your mind to new experiences daily."
+    },
+    {
+        "id": "yb63",
+        "userName": "emma_k",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "I enjoy reading books in a quiet place."
+    },
+    {
+        "id": "sj47",
+        "userName": "dave06",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "Cooking delicious meals is my favorite hobby."
+    },
+    {
+        "id": "nm53",
+        "userName": "ana_lee",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "Photography captures moments that last forever."
+    },
+    {
+        "id": "zl75",
+        "userName": "chris_h",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "status": false,
+        "description": "The beauty of nature inspires my creative work."
+    }
+],
+"posts": [
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 112,
+        "comments": 12,
+        "description": "Сегодня был потрясающий день! Люблю гулять в солнечную погоду."
+    },
+    {
+        "id": "ghq7",
+        "userName": "maria33",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 87,
+        "comments": 7,
+        "description": "Закат над океаном сегодня был просто великолепен! Чистая магия."
+    },
+    {
+        "id": "jkl5",
+        "userName": "john89",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 56,
+        "comments": 3,
+        "description": "Горные тропы полны тайн и приключений. Отличный день для отдыха."
+    },
+    {
+        "id": "pqw1",
+        "userName": "lisa21",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 145,
+        "comments": 24,
+        "description": "Провела вечер, любуясь ночными огнями города. Незабываемый момент!"
+    },
+    {
+        "id": "xrm9",
+        "userName": "tomcat",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 34,
+        "comments": 1,
+        "description": "Утренний кофе в тишине – лучшее начало для продуктивного дня."
+    },
+    {
+        "id": "lst3",
+        "userName": "sophie7",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 92,
+        "comments": 16,
+        "description": "Пляжный бриз освежает, шум волн убаюкивает. Идеальный день!"
+    },
+    {
+        "id": "buv4",
+        "userName": "mike19",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 74,
+        "comments": 8,
+        "description": "Парк наполняется весной! Зеленая трава, цветы повсюду."
+    },
+    {
+        "id": "zpt6",
+        "userName": "emma_k",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 58,
+        "comments": 4,
+        "description": "Новые велосипедные тропы сегодня открыли новые виды и эмоции."
+    },
+    {
+        "id": "tiv2",
+        "userName": "dave06",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 99,
+        "comments": 10,
+        "description": "Люблю долгие походы в горы, которые дают чувство свободы."
+    },
+    {
+        "id": "pmq5",
+        "userName": "ana_lee",
+        "avatarUrl": "https://images.unsplash.com/photo-1643790163535-155798020164?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fCVEMCVCMCVEMCVCMiVEMCVCMCVEMSU4MiVEMCVCMCVEMSU4MCVEMCVCQSVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCOCVEMCVCRCVEMSU4MSVEMSU4MiVEMCVCMCVEMCVCMyVEMSU4MCVEMCVCMCVEMCVCQyVEMCVCMCUyMCVEMCVCNCVEMCVCQiVEMSU4RiUyMCVEMCVCRiVEMCVCMCVEMSU4MCVEMCVCRCVEMCVCNSVEMCVCOXxlbnwwfHwwfHx8MA%3D%3D",
+        "image": "https://media.istockphoto.com/id/531214809/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=Fkn9g0lIzJe9ADLNte3jSBwpVDLIa7_SCo7T9VLFgtY=",
+        "likes": 67,
+        "comments": 5,
+        "description": "Наше путешествие по дорогам страны подарило массу впечатлений!"
+    }
+]
+}

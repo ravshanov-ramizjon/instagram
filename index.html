@@ -1,55 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/style.css">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Document</title>
 </head>
+
 <body>
-    <header>
-        <div class="container header__container">
-          <img src="./images/Logo.png" alt="Logo">
-  
-          <input type="search" class="search" placeholder="search">
-  
-          <div class="btns_box">
-            <button class="header__btn">
-              <img src="./images/Icon.png" alt="home">
-            </button>
-            <button class="header__btn">
-              <img src="./images/Icon (1).png" alt="mesenge">
-            </button>
-            <button class="header__btn">
-              <img src="./images/Icon (2).png" alt="reels">
-            </button>
-            <button class="header__btn">
-              <img src="./images/Icon (3).png" alt="like">
-            </button>
-            <button class="header__btn">
-              <img src="./images/Avatar.png" alt="profile">
-            </button>
-          </div>
-        </div>
-      </header>
-    <div class="container">
-        <div class="story__list">
+  <header>
+    <div class="container header__container">
+      <img src="./images/Logo.png" alt="Logo">
 
-        </div>
-        <dialog id="storyDialog" class="modal">
-            <div class="modal-content">
-                <img src="" alt="История" class="story-image" id="storyImage">
-                <div class="story-description">
-                    <strong class="user-name" id="userName"></strong>
-                    <strong class="description-title">Описание:</strong>
-                    <span class="description-text" id="descriptionText"></span>
-                </div>
-            </div>
-        </dialog>
-        <div class="post__list">
+      <input type="search" class="search" placeholder="search">
 
-        </div>
+      <div class="btns_box">
+        <button class="header__btn">
+          <img src="./images/Icon.png" alt="home">
+        </button>
+        <button class="header__btn">
+          <img src="./images/Icon (1).png" alt="mesenge">
+        </button>
+        <button class="header__btn">
+          <img src="./images/Icon (2).png" alt="reels">
+        </button>
+        <button class="header__btn">
+          <img src="./images/Icon (3).png" alt="like">
+        </button>
+        <button class="header__btn">
+          <img src="./images/Avatar.png" alt="profile">
+        </button>
+      </div>
     </div>
-    <script type="module" src="./main.js"></script>
+  </header>
+  <div class="container">
+    <div class="story__list"></div>
+
+    <div class="post__list"></div>
+
+    <div class="modal" id="storyModal">
+      <div class="modal-content">
+        <div class="progress-bar"></div>
+        <img src="" alt="Story Image" class="story-image">
+        <span class="story-description"></span>
+        <div class="input">
+          <span>😊</span>
+          <input class="comentInput" type="text" placeholder="Отпрвить комментарии">
+        </div>
+      </div>
+    </div>
+    <div id="userModal" class="modal-search">
+      <div class="modal-content-search">
+          <span class="close" id="closeModal">&times;</span>
+          <input class="search" type="search" id="search" placeholder="Поиск по именам..." />
+          <ul class="user-list" id="userList">
+            
+          </ul>
+      </div>
+  </div>
+  </div>
+  <script type="module" src="./main.js"></script>
 </body>
+
 </html>
